@@ -1,0 +1,20 @@
+body{
+	background-color: #8c8c8c;
+}
+img{
+	width: 100%;
+	height: 500px;
+}
+.navega{
+	background-color: white;
+}
+.car{
+	height: 750px; 
+}
+.centrar{
+	text-align: center;
+}
+.pie-pagina{
+	width:100%;
+	background-color: #456;
+	height: 60px;
